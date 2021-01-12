@@ -1,0 +1,14 @@
+name = "BIOSSFemDriver"
+uuid = "f4fbbc3a-31dd-4ed3-b1d4-fdb2c6bc02bc"
+authors = ["miguelmbd <miguel.molina.abad@alumnos.upm.es>"]
+version = "0.1.5"
+
+[deps]
+BIOSSFemCore = "e6815f29-35bd-4f98-854b-53e447428e18"
+BIOSSFemElements = "192dd290-38b7-43f7-a7f3-954434947dc7"
+BIOSSFemMaterial = "70280c4c-b49c-45e8-9586-41dd80c1f3b7"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+WriteVTK = "64499a7a-5c06-52f2-abe2-ccb03c286192"
