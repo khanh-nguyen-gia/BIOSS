@@ -1,0 +1,11 @@
+name = "BIOSSFemCore"
+uuid = "e6815f29-35bd-4f98-854b-53e447428e18"
+authors = ["miguelmbd <miguel.molina.abad@alumnos.upm.es>"]
+version = "0.1.4"
+
+[deps]
+Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
