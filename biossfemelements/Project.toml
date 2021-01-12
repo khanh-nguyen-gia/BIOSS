@@ -1,0 +1,12 @@
+name = "BIOSSFemElements"
+uuid = "192dd290-38b7-43f7-a7f3-954434947dc7"
+authors = ["miguelmbd <miguel.molina.abad@alumnos.upm.es>"]
+version = "0.1.4"
+
+[deps]
+BIOSSFemCore = "e6815f29-35bd-4f98-854b-53e447428e18"
+BIOSSFemMaterial = "70280c4c-b49c-45e8-9586-41dd80c1f3b7"
+Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
