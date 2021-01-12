@@ -1,0 +1,11 @@
+name = "BIOSSFem"
+uuid = "d9c14a13-3e4a-4a15-b514-18cfb76840f2"
+authors = ["miguelmbd <miguel.molina.abad@alumnos.upm.es>"]
+version = "0.1.3"
+
+[deps]
+BIOSSFemCore = "e6815f29-35bd-4f98-854b-53e447428e18"
+BIOSSFemDriver = "f4fbbc3a-31dd-4ed3-b1d4-fdb2c6bc02bc"
+BIOSSFemElements = "192dd290-38b7-43f7-a7f3-954434947dc7"
+BIOSSFemMaterial = "70280c4c-b49c-45e8-9586-41dd80c1f3b7"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
